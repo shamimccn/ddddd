@@ -1,2 +1,2 @@
 # ddddd
-Great repository names are short and memorable
+https://shamimccn.github.io/ddddd/
